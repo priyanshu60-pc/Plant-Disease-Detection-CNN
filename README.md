@@ -1,4 +1,5 @@
 🌿 Crop Disease Detection using Machine Learning
+
 📌 Project Overview
 This project presents an automated crop disease detection system designed for early diagnosis in Potato and Tomato plants. Developed as a 7th-semester B.Tech dissertation at Narula Institute of Technology, the system leverages deep learning to mitigate the limitations of manual inspection, which is often time-consuming and prone to human error.
 +3
